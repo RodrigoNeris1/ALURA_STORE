@@ -1,4 +1,5 @@
 Lojas do seu João
+
 Objetivo do Desafio: O objetivo é ajudar o Sr. João a decidir qual loja vender para investir em um novo negócio.
 
 Métricas Analisadas:
